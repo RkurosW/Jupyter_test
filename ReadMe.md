@@ -39,3 +39,8 @@ touch .gitignore
 git add .
 git commit -m "コミットコメント"
 ```
+
+5. GitHubへのコミット
+```
+git push origin master
+```
